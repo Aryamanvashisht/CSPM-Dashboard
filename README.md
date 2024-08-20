@@ -7,9 +7,12 @@ Welcome to the Dynamic Dashboard Project! This is a user-friendly, interactive d
 Features
 
 -**Dynamic Widget Management**: Easily add, remove, and filter widgets within different categories.
+
 -**Search Functionality**: Quickly find widgets by searching for titles or text.
 Modal for Adding Widgets: Use a sleek modal to add new widgets or manage existing ones.
+
 -**Responsive Design**: Built with Tailwind CSS to ensure the dashboard looks great on any device.
+
 -**Integrated Navbar**: Navigate effortlessly with a navbar that includes breadcrumbs and a search bar.
 
 ## Components Overview
