@@ -58,7 +58,7 @@ npm run dev
 
 ### Open the Application:
 
-Open your browser and visit http://localhost:5173 to view the application.
+Open your browser and visit http://localhost:3000 to view the application.
 
 ## Acknowledgements
 
