@@ -63,5 +63,7 @@ Open your browser and visit http://localhost:3000 to view the application.
 ## Acknowledgements
 
 -**React Icons**: For the beautiful icons used throughout the Navbar and Dashboard.
+
 -**Zustand**: For making state management simple and effective.
+
 -**Tailwind CSS**: For providing the styling that keeps the dashboard looking clean and responsive.
